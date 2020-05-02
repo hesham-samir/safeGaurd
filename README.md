@@ -15,5 +15,5 @@ Run the following commands in git bash in project`s directory.
 #### 4 - Install  requirements :
 >`pip install -r requirements.txt`
 
-#### 4 - Run project:
+#### 5 - Run project:
 > `python safegaurd_main.py`
